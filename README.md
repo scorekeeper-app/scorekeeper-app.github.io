@@ -1,1 +1,1 @@
-# scorekeeper-app.github.io
+[support.html](Support) and [privacy.html](Privacy Policy)
