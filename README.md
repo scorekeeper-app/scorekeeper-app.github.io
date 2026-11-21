@@ -1,1 +1,1 @@
-[support.html](Support) and [privacy.html](Privacy)
+[Support](support.html) and [Privacy Policy](privacy.html)
